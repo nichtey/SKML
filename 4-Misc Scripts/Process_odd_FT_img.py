@@ -7,8 +7,8 @@ import pickle
 
 '''User input'''
 
-Stored_Path = r"C:\Users\nicht\Desktop\To Fourier Transform\FT"
-Output_Path = r"C:\Users\nicht\Desktop\To Fourier Transform\FT Processed"
+Stored_Path = r""
+Output_Path = r""
 
 desired_nm_per_pixel = 4
 desired_width = 512
