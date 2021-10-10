@@ -9,7 +9,7 @@ from sklearn.decomposition import PCA
 '''User Input'''
 
 # Must contain Fourier Transformed Images, ft_data. Also ouputs PCA_data in the same folder.
-load_path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\Fourier Transformed Scaled"
+load_path = r""
 n_components = "Max"
 
 '''End User Input'''
