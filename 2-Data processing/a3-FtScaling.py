@@ -9,13 +9,13 @@ from scipy.optimize import curve_fit
 '''User Input'''
 
 # Stores fitting graphs
-save_path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\Fourier Transformed Scaled"
+save_path = r""
 
 # Stores fitting graphs that failed to be optimised
 failed_path = r""
 
 # Stores ft_scaling, must contain ft images (unscaled)
-load_path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\Fourier Transformed"
+load_path = r""
 
 # Centre pixel for a 512x512 img
 centre_pixel = 256
