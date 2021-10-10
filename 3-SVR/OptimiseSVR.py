@@ -17,7 +17,7 @@ from multiprocessing import Pool
 # Alternatively submit using NSCC Test.py (Recommended)
 
 file_type = r"33D DMI"
-parent_path = r"/scratch/users/astar/imre/chenxy14/Micromagnetics/sk-ML/Optimisation" + '/' + file_type
+parent_path = r"" + '/' + file_type
 
 # Number of processors to use (for multiprocessing), should be equal to number of processors
 processors = 24
