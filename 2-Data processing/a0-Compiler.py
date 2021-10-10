@@ -6,7 +6,7 @@ import numpy as np
 
 '''User Input'''
 
-parent_path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33DJM+Test4+35d"
+parent_path = r""
 
 # 0: Create folders, 1: Initialise, 2: Create csv files
 cmd_check = 2
