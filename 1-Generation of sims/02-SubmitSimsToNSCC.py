@@ -18,8 +18,8 @@ class Sh_Replacement_Keys:
 class Parameters:
 	job_set_name: str = 'st014'
 	cache_path: str = ''
-	local_path: str = r'C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\33series - extra simulations\mx3-files'
-	ssh_hostname: str = 'astar.nscc.sg'
+	local_path: str = r''
+	ssh_hostname: str = ''
 	remote_mx3_path: str = ''
 	remote_username: str = ''
 	rsa_key_path: str = ''
@@ -35,7 +35,7 @@ class Parameters:
 def submit_jobs_to_NSCC():
 
 	params = Parameters()
-	params_path_and_filename = r'C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\33series - extra simulations\02-SubmitSimsToNSCC-Parameters.json'
+	params_path_and_filename = r''
 
 	# Load parameters if available
 	if params_path_and_filename != '' and os.path.isfile(params_path_and_filename):
