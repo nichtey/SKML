@@ -5,8 +5,8 @@ import os, shutil, re
 # ---------------Input parameters---------------
 
 local_mode = True
-source_dir = r'C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\st013'
-destination_dir = r'C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\st013\collated_data'
+source_dir = r''
+destination_dir = r''
 #source_folders_regex = r'.*\.out'
 items_regex = 'Dind_.*.ovf'
 out_folder_regex = r'\.out'
