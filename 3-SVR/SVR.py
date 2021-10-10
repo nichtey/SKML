@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import shutil
 
 '''User Input'''
-parent_path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33DJM+Test4"
+parent_path = r""
 
 # Number of repetitions for a combination of hyper parameters that is required
 # Repetitions only relevant if random_test_check = True, otherwise same results will be repeated
