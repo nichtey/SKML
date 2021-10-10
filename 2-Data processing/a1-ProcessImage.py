@@ -11,8 +11,8 @@ from skimage.filters import median
 
 '''User Input'''
 
-Stored_Path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\33m Original"
-Output_Path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\33m Processed"
+Stored_Path = r""
+Output_Path = r""
 
 # Type of image file to convert
 file_type = ".png"
