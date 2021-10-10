@@ -6,10 +6,10 @@ import pickle
 '''User Input'''
 
 # Outputs fourier transformed images
-save_path = r"C:\Users\nicht\Desktop\To Fourier Transform"
+save_path = r""
 
 # Must contain png images to fourier transform
-load_path = r"C:\Users\nicht\Desktop\To Fourier Transform"
+load_path = r""
 
 # Appends external, already FT images in a pickle to pickle file that is outputted (Default = False)
 load_external = False
