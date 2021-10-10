@@ -11,7 +11,7 @@ import pickle
 
 '''User Input'''
 
-parent_path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33DJM+Test4"
+parent_path = r""
 
 # Only check the black/white intensity in a square
 # scan_limit is the distance from the centre
