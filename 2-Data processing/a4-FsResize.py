@@ -6,7 +6,7 @@ import math
 
 '''User Input'''
 
-Parent_Path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33DJM+Test4"
+Parent_Path = r""
 file_type = r"ft_scaling"
 
 '''End User Input'''
