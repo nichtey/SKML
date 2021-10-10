@@ -10,10 +10,10 @@ import cv2
 '''User input'''
 
 # Outputs the eigenface_data file and the PCA images
-Output_Path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33DJM+Test4\7-FT Eigenfaces"
+Output_Path = r""
 
 # Must contain images, or the relevant Ft_PCA_Data
-Stored_Path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33DJM+Test4\4-FS Scaled\Refined Scaling"
+Stored_Path = r""
 
 # Maximum n_components is equal to the number of pictures, or the number of images saved in the image
 # Set n_components = "Max", or an integer smaller than the maximum.
