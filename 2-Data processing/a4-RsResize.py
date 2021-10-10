@@ -9,16 +9,16 @@ import math
 '''User Input'''
 
 # Must contain images to scale (Real Space)
-Stored_Path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\33m Processed"
+Stored_Path = r""
 
 # Must contain pickle ft_scaling file
-Stored_Path_2 = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\Fourier Transformed"
+Stored_Path_2 = r""
 
 # Output Scaled Images
-Output_Path = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\33m Scaled"
+Output_Path = r""
 
 # Output Cropped and Scaled Images
-Output_Path_2 = r"C:\Users\Han Xuan\Desktop\OneDrive - Imperial College London\Attachments\Input Storage\Simulations\33m ML\33m Scaled, Cropped"
+Output_Path_2 = r""
 
 '''End User Input'''
 
