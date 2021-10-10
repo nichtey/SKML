@@ -19,7 +19,7 @@ import numpy as np
 def DA_matrix():
 
 	# ovf path
-	mx3_output_path = r'C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\33series - extra simulations\mx3-files'
+	mx3_output_path = r''
 
 	sim_batch_name = '33jSKML_st014'
 	effective_medium_scaling = 1/3
