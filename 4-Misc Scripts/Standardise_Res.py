@@ -5,8 +5,8 @@ import csv
 import matplotlib.pyplot as plt
 
 '''User Input'''
-load_path = r"C:\Users\nicht\Desktop\Experimental Data\Interpolated"
-save_path = r"C:\Users\nicht\Desktop\Experimental Data\Cropped 2"
+load_path = r""
+save_path = r""
 
 # cmd_check = 0 to create csv file to input the nm per pixel resolution
 # cmd_check = 1 to standardise pixel resolution to 4
