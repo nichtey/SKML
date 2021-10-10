@@ -6,7 +6,7 @@ import os
 import csv
 
 '''User Input'''
-Stored_Path = r"C:\Users\nicht\Desktop\New folder (3)"
+Stored_Path = r""
 file_name = r"Plot 4d.csv"
 
 '''End User Input'''
