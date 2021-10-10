@@ -12,7 +12,7 @@ import cv2
 # Refer to SVR.py for detailed documentation.
 # Important difference starts from line 201.
 
-parent_path = r"C:\Users\nicht\OneDrive - Imperial College London\Python 3.7.3\Input Storage\SVM (SVR)\33D Test"
+parent_path = r""
 
 repetitions = 1000
 no_test = 20
